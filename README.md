@@ -1,2 +1,15 @@
-# simple-arthematic-calculator-
-A simple Python arithmetic calculator that performs basic operations like addition, subtraction, multiplication, and division..
+# Simple Arithmetic Calculator
+
+A simple Python calculator that performs basic arithmetic operations.
+
+## Operations
+
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+## How to Run
+
+```bash
+python code.py
